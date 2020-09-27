@@ -21,7 +21,7 @@ env:
   imageRepository: 'content-api'
   resourceGroupName: 'fabmedical-227535'
   containerRegistryName: '227535'
-  containerRegistry: '227535.azurecr.io'
+  containerRegistry: 'acr227535.azurecr.io'
   dockerfilePath: './content-api'
   tag: '${{ github.run_id  }}'
 
