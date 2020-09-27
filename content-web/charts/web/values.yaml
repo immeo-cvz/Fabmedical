@@ -4,9 +4,9 @@
 
 replicaCount: 1
 
- image:
-   repository: acr227535.azurecr.io/content-web
-   pullPolicy: Always
+image:
+  repository: acr227535.azurecr.io/content-web
+  pullPolicy: Always
   tag: ""
 
 imagePullSecrets: []
