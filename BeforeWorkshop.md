@@ -1,16 +1,5 @@
-!["Microsoft Cloud Workshops"][logo]
-
-<div class="MCWHeader1">
-Cloud-native applications
-</div>
-
-<div class="MCWHeader2">
-Before the hands-on lab setup guide
-</div>
-
-<div class="MCWHeader3">
-August 2020
-</div>
+### Preparation
+This describes the steps that can be performed before the hands on labs start.
 
 
 ### Create a GitHub repository
